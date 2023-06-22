@@ -25,9 +25,7 @@ StaticJsonDocument<1000> json;
 WiFiClient client;
 HTTPClient http;
 
-//int temperature;
-//char* sunrise;
-// sunset;
+
 
 
 int get_data(){
