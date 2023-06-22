@@ -15,8 +15,8 @@ struct ErrorConfig_t{
 
 ErrorConfig_t errConfig;
 
-const char* SSID = "MTS_KV21";
-const char* PASSWORD = "89255427507";
+const char* SSID = "********";
+const char* PASSWORD = "******";
 const String REG_ID = "213";
 const String PATH = "https://yandex.com/time/sync.json?geo=";
 String REQ_PATH = PATH + REG_ID;
